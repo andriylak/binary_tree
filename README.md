@@ -1,4 +1,4 @@
-This repository contains basic functions for binary trees:
+This repository contains implementation of binary tree and basic functions for them:
 
 DFSandBFS.py:
   - DFS(tree) : implementation of DFS
