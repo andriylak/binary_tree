@@ -1,8 +1,8 @@
 This repository contains implementation of binary tree and basic functions for them:
 
 DFSandBFS.py:
-  - DFS(tree) : implementation of DFS
-  - BFS(tree) : implementation of BFS
+  - DFS(tree) : implementation of DFS on binary trees
+  - BFS(tree) : implementation of BFS on binary trees
 
 BinaryTree.py:
   - TraversPreOrder(tree) : traverses the tree in the order: Node → Left Child → Right Child.
